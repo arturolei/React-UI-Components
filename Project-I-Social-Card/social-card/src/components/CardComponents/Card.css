@@ -1,1 +1,46 @@
 /* All styles for your Card Components live here */
+
+.card-container{
+    display:flex;
+    flex-flow: column wrap;
+    align-items: center;
+    width:60%;
+
+    margin:0 auto;
+}
+
+.card-container img{
+    width: 73%;
+    margin-left:9%;
+}
+
+.card-content{
+    width: 69%;
+    margin-left: 9%;
+    padding: 1% 2%;
+    border: 1px solid lightgray;
+    border-top:none;
+    border-radius: 10px;
+}
+
+.card-content h1{
+    font-size:1.0rem;
+    font-weight: bold;
+    margin: 1% 0;
+}
+
+.card-content p{
+    margin: 1% 0;
+}
+
+.card-content a{
+    text-decoration: none;
+    color:gray;
+}
+
+
+
+
+
+
+

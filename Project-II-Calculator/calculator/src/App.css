@@ -1,0 +1,29 @@
+.calc-container{
+    width: 60%;
+    max-width: 300px;
+    display:flex;
+    flex-flow:column;
+    margin: 2% auto;
+    border: 1px solid gray;
+
+}
+
+.calc-container .calc-button-block{
+    width:100%;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.calc-container .calc-button-block .calc-white-block{
+    width:80%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.calc-container .calc-button-block .action-button-col{
+    width:20%;
+    display: flex;
+    flex-flow: column wrap;
+}

@@ -1,0 +1,43 @@
+.action-button{
+    width:120%;
+    padding:2%;
+    height: 20%;
+    font-size:1.4rem;
+    font-weight:bold;
+    background-color:darkred;
+    color:white;
+}
+
+
+.action-button-white{
+    width:100%;
+    padding:2%;
+    height: 20%;
+    font-size:1.4rem;
+    font-weight:bold;
+    background-color:white;
+    height:20%;
+}
+
+.num{
+    width:33.333%;
+    height:20%;
+    text-align:center;
+    padding:3% 2%;
+    text-decoration: none;
+    background:white;
+    font-size: 1.4rem;
+    font-weight:bold;
+    
+}
+
+.num-zero{
+    width:100%;
+    padding: 2%;
+    text-align:center;
+    padding:3% 2%;
+    text-decoration: none;
+    background:white;
+    font-size: 1.4rem;
+    font-weight:bold;
+}

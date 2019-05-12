@@ -3,12 +3,18 @@
     background-color: black;
     color:white;
     width: 100%;
-    padding: 0% 2%;
-  
+    box-sizing: border-box;
+    height: 20%;
+    display:flex;
+    flex-flow:column wrap;
+    justify-content: center;
 }
 
-h1{
+p{
+    box-sizing: border-box;
     width: 100%;
-    margin: 2% 0;
-    font-size:1.3rem;
+    margin: 3% 0;
+    font-size:3.6rem;
+    font-weight:normal;
+    padding-right:2%;
 }

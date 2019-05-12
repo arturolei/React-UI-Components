@@ -12,16 +12,16 @@ const App = () => {
     
       <div className="calc-button-block">
         <div className="calc-white-block">
-          <ActionButton buttonClass="action-button-white" text="Clear"/>
-          <NumberButton buttonStyle="num" text="1"/>
-          <NumberButton buttonStyle="num" text="2"/>
-          <NumberButton buttonStyle="num" text="3"/>
-          <NumberButton buttonStyle="num" text="4"/>
-          <NumberButton buttonStyle="num" text="5"/>
-          <NumberButton buttonStyle="num" text="6"/>
+          <ActionButton buttonClass="action-button-white" text="clear"/>
           <NumberButton buttonStyle="num" text="7"/>
           <NumberButton buttonStyle="num" text="8"/>
           <NumberButton buttonStyle="num" text="9"/>
+          <NumberButton buttonStyle="num" text="4"/>
+          <NumberButton buttonStyle="num" text="5"/>
+          <NumberButton buttonStyle="num" text="6"/>
+          <NumberButton buttonStyle="num" text="1"/>
+          <NumberButton buttonStyle="num" text="2"/>
+          <NumberButton buttonStyle="num" text="3"/>
           <NumberButton buttonStyle="num-zero" text ="0"/>
         </div>
         <div className="action-button-col">

@@ -1,0 +1,20 @@
+.calc-display{
+    text-align:right;
+    background-color: black;
+    color:white;
+    width: 100%;
+    box-sizing: border-box;
+    height: 20%;
+    display:flex;
+    flex-flow:column wrap;
+    justify-content: center;
+}
+
+p{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 3% 0;
+    font-size:3.6rem;
+    font-weight:normal;
+    padding-right:2%;
+}
